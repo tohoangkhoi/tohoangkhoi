@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-<!--
-**tohoangkhoi/tohoangkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Engineer at Avertro
+- 🔭 I’m currently working on something cool!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <body>
+    <div>
+      <a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
+        <img alt="Khoi's GitHub contributions" src="https://raw.githubusercontent.com/tohoangkhoi/tohoangkhoi/output/github-contribution-grid-snake.svg" />
+      </a> 
+    </div>
+  </body>
+</html>
+  
