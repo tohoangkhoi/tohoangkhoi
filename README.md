@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-- 💻 I am a Software Engineer at Avertro
+- 💻 I'm a Software Engineer at Avertro
 - 🔭 I’m currently working on something cool!
 
 <html>
